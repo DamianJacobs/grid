@@ -6,30 +6,48 @@ body {
 
 .frame{
 	background-color: rgba(0,128,0,0.4);
-	
+
 	/* put css-rules in this ccs-block here below */
-	
+	width: 620px;
+	margin-left: 390px;
+	height: 670px;
+	padding-top: 20px;
+	padding-bottom: 30px;
 }
 
 h1{
 	background-color: rgba(0,32,0,0.4);
 	line-height: 40px;
-	
+
+
+
 	/* put css-rules in this ccs-block here below */
-	
+	padding-bottom: 20px;
+	margin-left: 10px;
+	width: 580px;
+	margin-bottom: 30px;
+	padding-left: 20px;
+	padding-top: 20px;
 }
 
 h2 {
 	line-height: 30px;
-	
+
 	/* put css-rules in this ccs-block here below */
-	
+  padding-left: 10px;
+	border: solid purple;
+	border-width: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
 }
 
 p{
 	background-color: rgba(256,256,0,0.4);
 	line-height: 20px;
-	
-	/* put css-rules in this ccs-block here below */
 
+	/* put css-rules in this ccs-block here below */
+		margin: 10px;
+		padding: 10px;
 }
