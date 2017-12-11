@@ -9,7 +9,8 @@ body {
 
 	/* put css-rules in this ccs-block here below */
 	width: 620px;
-	margin-left: 390px;
+	margin-left:  auto;
+	margin-right: auto;
 	height: 670px;
 	padding-top: 20px;
 	padding-bottom: 30px;
